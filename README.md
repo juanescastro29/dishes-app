@@ -13,7 +13,6 @@ App utilizando el framework de react
   ***bootstrap** -> npm i bootstrap@5.3.1*<br>
   ***react-router-dom** -> npm i react-router-dom*<br>
   ***react-hook-form** -> npm i react-hook-form*<br>
-  ***react-hook-form** -> npm install react-hook-form*<br>
 
 ## Autor ✒️
 
